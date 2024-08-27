@@ -1,0 +1,19 @@
+{
+  "name": "vitest-jest-dom-types",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.5.0",
+    "@types/node": "^20.16.1",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
